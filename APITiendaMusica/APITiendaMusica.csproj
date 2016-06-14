@@ -113,8 +113,11 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App_Start\BootStraper.cs" />
     <Compile Include="App_Start\UnityConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\CategoriasController.cs" />
+    <Compile Include="Controllers\ComponentesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -131,12 +134,15 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\BaseRepositorio2015\BaseRepositorio\BaseRepositorio.csproj">
       <Project>{72872631-49c6-491a-9466-a9a5b4b879ba}</Project>
       <Name>BaseRepositorio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RepositorioAPI\RepositorioAPI.csproj">
+      <Project>{f15e65aa-52f7-48ca-91fd-f8e1dc782afa}</Project>
+      <Name>RepositorioAPI</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

@@ -22,3 +22,5 @@ c:\users\alejandro.garcia\documents\visual studio 2015\Projects\APITiendaMusica\
 c:\users\alejandro.garcia\documents\visual studio 2015\Projects\APITiendaMusica\RepositorioAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 c:\users\alejandro.garcia\documents\visual studio 2015\Projects\APITiendaMusica\RepositorioAPI\obj\Debug\RepositorioAPI.dll
 c:\users\alejandro.garcia\documents\visual studio 2015\Projects\APITiendaMusica\RepositorioAPI\obj\Debug\RepositorioAPI.pdb
+C:\Users\alejandro.garcia\documents\visual studio 2015\Projects\APITiendaMusica\RepositorioAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\alejandro.garcia\documents\visual studio 2015\Projects\APITiendaMusica\RepositorioAPI\bin\EntityFramework.SqlServer.xml

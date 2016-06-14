@@ -42,3 +42,5 @@ c:\users\alejandro.garcia\documents\visual studio 2015\Projects\APITiendaMusica\
 c:\users\alejandro.garcia\documents\visual studio 2015\Projects\APITiendaMusica\APITiendaMusica\bin\Microsoft.Practices.Unity.xml
 c:\users\alejandro.garcia\documents\visual studio 2015\Projects\APITiendaMusica\APITiendaMusica\bin\Microsoft.Practices.Unity.Configuration.xml
 c:\users\alejandro.garcia\documents\visual studio 2015\Projects\APITiendaMusica\APITiendaMusica\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\alejandro.garcia\documents\visual studio 2015\Projects\APITiendaMusica\APITiendaMusica\bin\RepositorioAPI.dll
+C:\Users\alejandro.garcia\documents\visual studio 2015\Projects\APITiendaMusica\APITiendaMusica\bin\RepositorioAPI.pdb

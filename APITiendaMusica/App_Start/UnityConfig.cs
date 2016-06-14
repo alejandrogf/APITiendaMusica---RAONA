@@ -1,5 +1,10 @@
+using System.Data.Entity;
 using Microsoft.Practices.Unity;
 using System.Web.Http;
+using APITiendaMusica.App_Start;
+using BaseRepositorio.Repositorio;
+using RepositorioAPI.Model;
+using RepositorioAPI.ViewModel;
 using Unity.WebApi;
 
 namespace APITiendaMusica
@@ -14,7 +19,7 @@ namespace APITiendaMusica
             // it is NOT necessary to register your controllers
 
             // e.g. container.RegisterType<ITestService, TestService>();
-            BootStraper.Init(container);
+BootStraper.Init(container);
             GlobalConfiguration.Configuration.DependencyResolver = new UnityDependencyResolver(container);
         }
     }

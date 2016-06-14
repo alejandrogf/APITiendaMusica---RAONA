@@ -18,6 +18,7 @@ namespace RepositorioAPI.Model
         public TiendaMusicaEntities()
             : base("name=TiendaMusicaEntities")
         {
+            Configuration.LazyLoadingEnabled = false;
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
